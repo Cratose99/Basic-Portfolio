@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+}
+
+header {
+  padding: 5px;
+  margin: 0;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 18px;
+  line-height: 150%;
+  color: #333;
+  background: #333;
+}
+
+h1 {
+    padding: 20px 0;
+    margin: 0;
+    margin-bottom: 20px;
+    font-size: 28px;
+    color: #eee;
+    border: 1px solid #dddddd;
+    width: 250px;
+  }
+ 
+  .container {
+    width: 65%;
+    overflow: center;
+    clear: both;
+    color: #777777;
+    background: #ffffff;
+    border: solid #dddddd;
+  }
+
+  #bio-image {
+      float: left
+  }
+
+  .box {
+    width: 150px;
+    height: 150px;
+    background: #2db34a;
+    border: 2px solid black;
+  }
+
+  
